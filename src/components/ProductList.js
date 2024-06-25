@@ -1,3 +1,10 @@
 export function ProductList(props) {
-  return <div style={{ display: "flex", gap: "16px" }}>{props.children}</div>;
+  return (
+    <>
+      <h2>Products</h2>
+      <div style={{ display: "flex", gap: "16px", marginBottom: "36px" }}>
+        {props.children}
+      </div>
+    </>
+  );
 }
