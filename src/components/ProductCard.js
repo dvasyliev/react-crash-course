@@ -1,6 +1,14 @@
 import styles from "./ProductCard.module.css";
 
 export function ProductCard({ product, background = "slategray", onPurchase }) {
+  let stockCount = product.stockCount;
+
+  function handleClick() {
+    stockCount = stockCount - 1;
+    console.log("stockCount", stockCount);
+    onPurchase(product);
+  }
+
   return (
     <article className={styles.Container} style={{ background }}>
       <h2>{product.title}</h2>
@@ -16,11 +24,9 @@ export function ProductCard({ product, background = "slategray", onPurchase }) {
           <li key={index}>{spec}</li>
         ))}
       </ul>
-      <Status stockCount={product.stockCount} />
-      {product.stockCount > 0 && (
-        <button onClick={() => onPurchase(product)}>
-          Buy (From ${product.price})
-        </button>
+      <Status stockCount={stockCount} />
+      {stockCount > 0 && (
+        <button onClick={handleClick}>Buy (From ${product.price})</button>
       )}
     </article>
   );
