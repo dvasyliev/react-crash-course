@@ -1,11 +1,12 @@
+import { useState } from "react";
 import styles from "./ProductCard.module.css";
 
 export function ProductCard({ product, background = "slategray", onPurchase }) {
-  let stockCount = product.stockCount;
+  const [stockCount, setStockCount] = useState(product.stockCount);
+  const [showMore, setShowMore] = useState(false);
 
   function handleClick() {
-    stockCount = stockCount - 1;
-    console.log("stockCount", stockCount);
+    setStockCount(stockCount - 1);
     onPurchase(product);
   }
 
@@ -18,12 +19,19 @@ export function ProductCard({ product, background = "slategray", onPurchase }) {
         width={128}
         height={128}
       />
-      <p>Specification:</p>
-      <ul className={styles.Specification}>
-        {product.specification.map((spec, index) => (
-          <li key={index}>{spec}</li>
-        ))}
-      </ul>
+      <p>
+        Specification:{" "}
+        <button onClick={() => setShowMore(!showMore)}>
+          {showMore ? "hide" : "show"}
+        </button>
+      </p>
+      {showMore && (
+        <ul className={styles.Specification}>
+          {product.specification.map((spec, index) => (
+            <li key={index}>{spec}</li>
+          ))}
+        </ul>
+      )}
       <Status stockCount={stockCount} />
       {stockCount > 0 && (
         <button onClick={handleClick}>Buy (From ${product.price})</button>
