@@ -17,9 +17,19 @@ function App() {
   return (
     <div className="App">
       <ProductList>
-        <ProductCard product={product} />
-        <ProductCard product={product} />
-        <ProductCard product={product} />
+        <ProductCard
+          width="96px"
+          height="96px"
+          background="darkolivegreen"
+          product={product}
+        />
+        <ProductCard width="64px" height="64px" product={product} />
+        <ProductCard
+          width="128px"
+          height="128px"
+          background="peru"
+          product={product}
+        />
       </ProductList>
     </div>
   );

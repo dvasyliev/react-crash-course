@@ -1,7 +1,12 @@
-export function ProductCard(props) {
+export function ProductCard({
+  product,
+  background = "slategray",
+  ...restProps
+}) {
   return (
     <article
       style={{
+        background,
         width: "100%",
         border: "1px solid white",
         borderRadius: "8px",
@@ -9,20 +14,15 @@ export function ProductCard(props) {
         textAlign: "center",
       }}
     >
-      <h2>{props.product.title}</h2>
-      <img
-        src={props.product.imageSrc}
-        alt={props.product.title}
-        width="128px"
-        height="128px"
-      />
+      <h2>{product.title}</h2>
+      <img src={product.imageSrc} alt={product.title} {...restProps} />
       <p>Specification:</p>
       <ul style={{ listStyle: "none", padding: 0 }}>
-        <li>{props.product.specification[0]}</li>
-        <li>{props.product.specification[1]}</li>
-        <li>{props.product.specification[2]}</li>
+        <li>{product.specification[0]}</li>
+        <li>{product.specification[1]}</li>
+        <li>{product.specification[2]}</li>
       </ul>
-      <button>Buy (From ${props.product.price})</button>
+      <button>Buy (From ${product.price})</button>
     </article>
   );
 }
