@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import { ProductList } from "./components/ProductList";
 import { ProductCard } from "./components/ProductCard";
-import "./App.css";
+import styles from "./App.module.css";
 
 function App() {
   const products = [
@@ -45,7 +45,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className={styles.App}>
       <ProductList>
         {products.map((product) => (
           <ProductCard
@@ -61,8 +61,8 @@ function App() {
         .filter(({ price }) => price < 500)
         .map(({ title, price }) => (
           <Fragment key={title}>
-            <hr className="ListDivider" />
-            <p className="ListTitle">
+            <hr className={styles.ListDivider} />
+            <p className={styles.ListTitle}>
               {title} cost ${price}
             </p>
           </Fragment>
