@@ -1,0 +1,22 @@
+.Container {
+  width: 100%;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
+
+.Specification {
+  list-style: none;
+  padding: 0;
+}
+
+.NotAvailableStatus {
+  font-size: 14px;
+  color: lightsalmon;
+}
+
+.AvailableStatus {
+  font-size: 14px;
+  color: lightgreen;
+}

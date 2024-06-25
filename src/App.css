@@ -3,3 +3,11 @@
   margin: 0 auto;
   padding: 64px 16px 16px;
 }
+
+.ListDivider {
+  border-color: slategray;
+}
+
+.ListTitle {
+  margin: 8px 0;
+}
