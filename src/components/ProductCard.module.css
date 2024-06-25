@@ -1,9 +1,25 @@
 .Container {
+  position: relative;
   width: 100%;
   border: 1px solid white;
   border-radius: 8px;
   padding: 16px;
   text-align: center;
+}
+
+.Favorite {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  border: 0;
+  background: none;
+  font-size: 20px;
+
+  &:hover {
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+  }
 }
 
 .Specification {
