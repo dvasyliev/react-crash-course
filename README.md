@@ -1,7 +1,29 @@
-# React Crash Course: From Zero to Hero
+About me ◽️ 🎬 Udemy Instructor ◽️ 👨🏻‍💻 Front-End Engineer (10+ years) ◽️ 🎯 Mentor for Developers
 
-Learn React from scratch and build your first application step by step in this course.
-This repository contains the source code for the "React Crash Course: From Zero to Hero" course.
+# Products List App
+
+This repository contains the Source Code for the "Products List App" from 🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ) course.
+
+# My Other Courses
+
+#### Front-End Courses
+
+🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ)\
+🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq)
+
+#### AI & Vibe Coding Courses
+
+😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://linkly.link/2B4WN)\
+👻 [Cursor AI for Beginners: AI Coding Crash Course](https://linkly.link/2CKBT)\
+🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course ](https://linkly.link/2DUC9)\
+❤️ [Lovable AI: Complete Guide for Vibe Coding](https://linkly.link/2DUC1)
+
+#### Full-Stack Courses
+
+👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://linkly.link/2EUQ5)\
+🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://linkly.link/2EUQ6)
+
+# How to use Code Examples from Github
 
 ## Download the code source
 
