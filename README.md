@@ -17,13 +17,9 @@ This repository contains the Source Code for the "Products List App" from 🧑�
   <a href="https://go.dvasyliev.com/cca-f"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cca-f.png" width="150" alt="CCA-F: Claude Certified Architect - Practice Certification Exam"/></a>
   <a href="https://go.dvasyliev.com/copilot"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/copilot.png" width="150" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/cursor"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cursor.png" width="150" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
-  <a href="https://go.dvasyliev.com/windsurf"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/windsurf.png" width="150" alt="Windsurf for Beginners: AI Coding Crash Course"/></a>
-  <a href="https://go.dvasyliev.com/antigravity"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/antigravity.png" width="150" alt="Google Antigravity for Beginners: AI Coding Crash Course"/></a>
-  <a href="https://go.dvasyliev.com/chatgpt"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/chatgpt.png" width="150" alt="ChatGPT for Developers: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/v0"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/v0.png" width="150" alt="Vibe Coding for Developers: v0 AI, Supabase, Vercel Deploy"/></a>
   <a href="https://go.dvasyliev.com/lovable"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/lovable.png" width="150" alt="Lovable AI: Complete Guide for Vibe Coding"/></a>
   <a href="https://go.dvasyliev.com/gh300"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/gh300.png" width="150" alt="GH-300: Github Copilot – Complete Exam Preparation Guide"/></a>
-  <a href="https://go.dvasyliev.com/gh300-practice"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/gh300-practice.png" width="150" alt="GH-300: Github Copilot - Practice Certification Exam"/></a>
 </p>
 
 #### Web Development Courses
@@ -35,7 +31,7 @@ This repository contains the Source Code for the "Products List App" from 🧑�
   <a href="https://go.dvasyliev.com/nodejs"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/nodejs.png" width="150" alt="Node.js Crash Course: Build a REST API in a Weekend"/></a>
 </p>
 
-[All courses →](https://www.dvasyliev.com/courses)
+[See more courses →](https://www.dvasyliev.com/courses)
 <!-- COURSES:END -->
 
 # How to use Code Examples from Github
