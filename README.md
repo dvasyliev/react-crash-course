@@ -9,44 +9,59 @@ This repository contains the Source Code for the "Products List App" from 🧑�
 
 #### Agentic AI Courses
 
-🎛️ [Harness Engineering: Modern AI Software Development Bootcamp](https://go.dvasyliev.com/harness-engineering)\
-🦞 [OpenClaw for Developers: AI Coding Crash Course](https://go.dvasyliev.com/openclaw)\
-🧑🏻‍💻 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)
+<p>
+  <a href="https://go.dvasyliev.com/harness-engineering"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/harness-engineering.png" width="150" alt="Harness Engineering: Modern AI Software Development Bootcamp"/></a>
+  <a href="https://go.dvasyliev.com/openclaw"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/openclaw.png" width="150" alt="OpenClaw for Developers: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/evaluating-ai-code"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/evaluating-ai-code.png" width="150" alt="AI Code Review: Evaluate Python Code with Confidence"/></a>
+</p>
 
 #### AI Tools Courses
 
-🔍 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)\
-🧑🏻‍💻 [Claude Code: AI Crash Course for Developers](https://go.dvasyliev.com/claude-code)\
-😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/copilot)\
-👻 [Cursor AI for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/cursor)\
-🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/windsurf)\
-🪐 [Google Antigravity for Beginners: AI Coding Crash Course](https://go.dvasyliev.com/antigravity)
+<p>
+  <a href="https://go.dvasyliev.com/claude-code"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/claude-code.png" width="150" alt="Claude Code: AI Crash Course for Developers"/></a>
+  <a href="https://go.dvasyliev.com/copilot"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/copilot.png" width="150" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/cursor"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cursor.png" width="150" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/windsurf"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/windsurf.png" width="150" alt="Windsurf for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/antigravity"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/antigravity.png" width="150" alt="Google Antigravity for Beginners: AI Coding Crash Course"/></a>
+</p>
 
 #### AI Certifications Courses
 
-🏅 [CCA-F: Claude Certified Architect — Complete Exam Preparation](https://go.dvasyliev.com/cca-f)\
-📜 [GH-300: GitHub Copilot Exam Preparation](https://go.dvasyliev.com/gh300)\
-📝 [GH-300: GitHub Copilot Practice Certification Exam](https://go.dvasyliev.com/gh300-practice)
+<p>
+  <a href="https://go.dvasyliev.com/cca-f"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cca-f.png" width="150" alt="CCA-F: Claude Certified Architect - Practice Certification Exam"/></a>
+  <a href="https://go.dvasyliev.com/gh300"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/gh300.png" width="150" alt="GH-300: Github Copilot – Complete Exam Preparation Guide"/></a>
+  <a href="https://go.dvasyliev.com/gh300-practice"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/gh300-practice.png" width="150" alt="GH-300: Github Copilot - Practice Certification Exam"/></a>
+</p>
 
 #### Vibe Coding Courses
 
-⚡ [Vibe Coding for Developers: v0, AI, Supabase, Vercel Deploy](https://go.dvasyliev.com/v0)\
-❤️ [Lovable AI: Complete Guide for Vibe Coding](https://go.dvasyliev.com/lovable)
+<p>
+  <a href="https://go.dvasyliev.com/v0"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/v0.png" width="150" alt="Vibe Coding for Developers: v0 AI, Supabase, Vercel Deploy"/></a>
+  <a href="https://go.dvasyliev.com/lovable"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/lovable.png" width="150" alt="Lovable AI: Complete Guide for Vibe Coding"/></a>
+</p>
 
 #### Front-End Courses
 
-⚛️ [React Crash Course: From Zero to Hero](https://go.dvasyliev.com/react)\
-🤖 [React.js AI Chatbot App with ChatGPT and Gemini AI](https://go.dvasyliev.com/ai-chatbot)
+<p>
+  <a href="https://go.dvasyliev.com/react"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/react.png" width="150" alt="React Crash Course: From Zero to Hero"/></a>
+  <a href="https://go.dvasyliev.com/ai-chatbot"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/ai-chatbot.png" width="150" alt="React.js AI Chatbot built with ChatGPT, Gemini AI and DeepSeek"/></a>
+</p>
 
 #### Full-Stack Courses
 
-👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://go.dvasyliev.com/nextjs)\
-🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://go.dvasyliev.com/nodejs)
+<p>
+  <a href="https://go.dvasyliev.com/nextjs"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/nextjs.png" width="150" alt="Next.js Crash Course: Build a Full-Stack App in a Weekend"/></a>
+  <a href="https://go.dvasyliev.com/nodejs"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/nodejs.png" width="150" alt="Node.js Crash Course: Build a REST API in a Weekend"/></a>
+</p>
 
 #### Other Courses
 
-👣 [AI Agents with OpenAI AgentKit: Hands-On Guide](https://go.dvasyliev.com/agentkit)\
-💬 [ChatGPT for Developers: AI Coding Crash Course](https://go.dvasyliev.com/chatgpt)
+<p>
+  <a href="https://go.dvasyliev.com/agentkit"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/agentkit.png" width="150" alt="OpenAI AgentKit: Build AI Agents & Automate Workflows"/></a>
+  <a href="https://go.dvasyliev.com/chatgpt"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/chatgpt.png" width="150" alt="ChatGPT for Developers: AI Coding Crash Course"/></a>
+</p>
+
+[All courses →](https://www.dvasyliev.com/courses)
 <!-- COURSES:END -->
 
 # How to use Code Examples from Github
