@@ -15,11 +15,11 @@ I teach developers what I use in production: practical, project-based courses on
 #### AI Coding Courses
 
 <p>
-  <a href="https://go.dvasyliev.com/harness-engineering"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/harness-engineering.png" width="150" alt="Harness Engineering: Modern AI Software Development Bootcamp"/></a>
-  <a href="https://go.dvasyliev.com/claude-code"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/claude-code.png" width="150" alt="Claude Code: AI Crash Course for Developers"/></a>
+  <a href="https://go.dvasyliev.com/harness-engineering"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/harness-engineering.png" width="150" alt="Claude Code Harness Engineering: Make AI Agents Reliable"/></a>
+  <a href="https://go.dvasyliev.com/claude-code"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/claude-code.png" width="150" alt="Claude Code Crash Course: AI Coding for Developers"/></a>
   <a href="https://go.dvasyliev.com/openclaw"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/openclaw.png" width="150" alt="OpenClaw for Developers: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/evaluating-ai-code"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/evaluating-ai-code.png" width="150" alt="AI Code Review: Evaluate Python Code with Confidence"/></a>
-  <a href="https://go.dvasyliev.com/cca-f"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cca-f.png" width="150" alt="CCA-F: Claude Certified Architect - Practice Certification Exam"/></a>
+  <a href="https://go.dvasyliev.com/cca-f"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cca-f.png" width="150" alt="Claude Certified Architect CCAR-F Exam Prep: Real AI Project"/></a>
   <a href="https://go.dvasyliev.com/copilot"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/copilot.png" width="150" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/cursor"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/cursor.png" width="150" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/v0"><img src="https://raw.githubusercontent.com/dvasyliev/courses-links/main/covers/v0.png" width="150" alt="Vibe Coding for Developers: v0 AI, Supabase, Vercel Deploy"/></a>
